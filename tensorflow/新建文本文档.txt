@@ -1,0 +1,1 @@
+pip install -i https://pypi doubam.com/simple pillow
