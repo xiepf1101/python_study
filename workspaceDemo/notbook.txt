@@ -1,0 +1,3 @@
+python操作mysql：
+安装PyMySQL  
+https://www.cnblogs.com/snn0605/p/6658009.html
