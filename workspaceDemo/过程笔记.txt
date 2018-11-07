@@ -1,0 +1,15 @@
+python操作mysql：
+安装PyMySQL  
+https://www.cnblogs.com/snn0605/p/6658009.html
+
+
+
+
+
+使用selenium
+运行报错：
+selenium.common.exceptions.WebDriverException: Message: ‘ChromeDriver executable needs to be available in the path.
+没有安装ChromeDriver   
+	http://chromedriver.storage.googleapis.com/index.html
+报错信息如下：selenium.common.exceptions.WebDriverException: Message: unknown error: call function result missing
+	https://blog.csdn.net/qq_40027987/article/details/79544489
