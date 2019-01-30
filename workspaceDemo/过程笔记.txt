@@ -13,3 +13,8 @@ selenium.common.exceptions.WebDriverException: Message: ‘ChromeDriver executab
 	http://chromedriver.storage.googleapis.com/index.html
 报错信息如下：selenium.common.exceptions.WebDriverException: Message: unknown error: call function result missing
 	https://blog.csdn.net/qq_40027987/article/details/79544489
+	
+	
+下載文件報錯：权限问题
+builtins.PermissionError: [Errno 13] Permission denied: 'D:\\thisme_D\\Python\\python_study\\workspaceDemo'
+
